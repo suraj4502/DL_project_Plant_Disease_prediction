@@ -1,0 +1,4 @@
+tensorflow
+google-cloud-storage
+Pillow
+
