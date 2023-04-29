@@ -62,7 +62,7 @@ Streamlit run 🏠Home.py
     
 ## Demo
 
-1. [Streamlit APP](https://suraj4502-ppd.streamlit.app/ "Go to Streamlit app") 
+1. [**Streamlit APP**](https://suraj4502-ppd.streamlit.app/ "Go to Streamlit app") 
 
 *The [app](https://github.com/suraj4502/Streamlit_app_PDP) is deployed on the Streamlit Cloud while the model is deployed on the GCP as a cloud function, a request is sent every time we want to predict the class of the plant and a response is received from GCP.*
 
@@ -89,7 +89,7 @@ Streamlit run 🏠Home.py
 
 ![image](https://user-images.githubusercontent.com/76464630/235284833-67636905-aa4f-4470-8bcb-5a2a4704f2b2.png)
 
-2. React JS App :  
+2. **React JS App :** 
 
 
 ![image](https://user-images.githubusercontent.com/76464630/235284878-e61c3939-a751-4dc0-b541-1a60a0c0373b.png)
@@ -98,6 +98,6 @@ Streamlit run 🏠Home.py
 ![image](https://user-images.githubusercontent.com/76464630/235284919-596ee3f4-5767-47b0-8ba6-f2dd8948623d.png)
 
 ## Credits 
-This project was created by [Surajkumar Yadav.](https://www.linkedin.com/in/surajkumar-yadav-6ab2011a4/), contact at sy820860@gmail.com for any queries.
+This project was created by [Surajkumar Yadav](https://www.linkedin.com/in/surajkumar-yadav-6ab2011a4/), contact at sy820860@gmail.com for any queries.
 
 --- 
