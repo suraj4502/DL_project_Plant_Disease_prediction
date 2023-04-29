@@ -1,6 +1,6 @@
 
 # Plant Disease Prediction Using Deep Learning
-[_Webapp_](https://suraj4502-ppd.streamlit.app/ "Go to Streamlit app") -------------------------------------------------------------------                                                            [_git Repo_](https://github.com/suraj4502/DL_project_Plant_Disease_prediction "Go to GitHub")
+[_Webapp_](https://suraj4502-ppd.streamlit.app/ "Go to Streamlit app") --------------------------------------------------------------------------------------------------                                                            [_git Repo_](https://github.com/suraj4502/DL_project_Plant_Disease_prediction "Go to GitHub")
 - The project aims to develop a system that can accurately identify  various diseases in plants using machine learning algorithms. 
 - The system will be trained on a dataset of images of plants affected by different diseases and will use deep learning techniques to extract relevant features from the images. 
 - The extracted features will then be used to train a model that can classify new images of plants based on the presence or absence of disease.
@@ -64,7 +64,7 @@ Streamlit run 🏠Home.py
 
 1. [Streamlit APP](https://suraj4502-ppd.streamlit.app/ "Go to Streamlit app") 
 
-*The app is deployed on the Streamlit Cloud while the model is deployed on the GCP as a cloud function, a request is sent every time we want to predict the class of the plant and a response is received from GCP.*
+*The [app](https://github.com/suraj4502/Streamlit_app_PDP) is deployed on the Streamlit Cloud while the model is deployed on the GCP as a cloud function, a request is sent every time we want to predict the class of the plant and a response is received from GCP.*
 
 - Login Page: 
 ![image](https://user-images.githubusercontent.com/76464630/235284574-5b2f39dc-420f-4e79-ac68-2397264a7746.png)
@@ -98,3 +98,4 @@ Streamlit run 🏠Home.py
 ## Credits 
 This project was created by [Surajkumar Yadav.](https://www.linkedin.com/in/surajkumar-yadav-6ab2011a4/)
 
+--- 
